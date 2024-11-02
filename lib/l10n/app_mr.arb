@@ -1,0 +1,14 @@
+{
+  "@@locale": "mr",
+  "home_screen_title": "मुख्यपृष्ठ",
+  "goToSignUp": "साइन अप करा",
+   "first_name": "पहिले नाव",
+  "last_name": "आडनाव",
+  "mobile_no": "मोबाईल क्रमांक",
+  "address": "पत्ता",
+  "city": "शहर",
+  "country": "देश",
+  "zip_post": "झिप/पोस्ट",
+  "register": "नोंदणी करा",
+  "farmer_registration": "शेतकरी नोंदणी"
+}
